@@ -1,0 +1,6 @@
+*.xml
+*.json
+*.mp4
+/whisperx/*
+*.mov
+*.wav
