@@ -1,0 +1,11 @@
+videogrep --input %*.mp4 --padding 0.25 --output %*_clips.xml ^
+--search "thrones" ^
+--search "game of thrones" ^
+--search "john snow" ^
+--search "jon snow" ^
+--search "Death Stranding" ^
+--search "death" ^
+--search "stranding" ^
+--search "kojima" ^
+--search "elden ring" ^
+--search-type fragment
